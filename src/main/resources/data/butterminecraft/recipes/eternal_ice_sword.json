@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "  x",
+    " x ",
+    "s  "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "butterminecraft:eternal_ice_block"
+    },
+    "s":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "butterminecraft:eternal_ice_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "condition": "minecraft:match_tool"
+            }
+          ],
+          "name": "butterminecraft:eternal_ice_block"
+        }
+      ]
+    }
+  ]
+}

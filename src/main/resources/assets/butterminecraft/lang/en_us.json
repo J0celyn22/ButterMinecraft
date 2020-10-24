@@ -1,0 +1,20 @@
+{
+  "itemGroup.butterMinecraftTab" : "Butter Minecraft",
+  "item.butterminecraft.butter" : "Butter",
+  "item.butterminecraft.unsalted_butter" : "Unsalted Butter",
+  "item.butterminecraft.salt" : "Salt",
+  "item.butterminecraft.eternal_ice_sword" : "Eternal Ice Sword",
+  "item.butterminecraft.eternal_ice_pickaxe" : "Eternal Ice Pickaxe",
+  "item.butterminecraft.eternal_ice_shovel" : "Eternal Ice Shovel",
+  "item.butterminecraft.eternal_ice_axe" : "Eternal Ice Axe",
+  "item.butterminecraft.eternal_ice_hoe" : "Eternal Ice Hoe",
+  "item.butterminecraft.eternal_ice_helmet" : "Eternal Ice Helmet",
+  "item.butterminecraft.eternal_ice_chestplate" : "Eternal Ice Chestplate",
+  "item.butterminecraft.eternal_ice_leggings" : "Eternal Ice Leggings",
+  "item.butterminecraft.eternal_ice_boots" : "Eternal Ice Boots",
+  "item.butterminecraft.butter_galette" : "Butter Galette",
+  "item.butterminecraft.bad_butter_galette" : "Butter Galette",
+  "block.butterminecraft.eternal_ice_block" : "Eternal Ice Block",
+  "block.butterminecraft.magic_crystal_block" : "Magic Crystal Block",
+  "block.butterminecraft.hypokute_grass" : "Hypokute Grass"
+}
