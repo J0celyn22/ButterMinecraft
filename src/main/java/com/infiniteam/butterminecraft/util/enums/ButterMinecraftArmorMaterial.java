@@ -68,6 +68,7 @@ public enum ButterMinecraftArmorMaterial implements IArmorMaterial {
     }
 
     @OnlyIn(Dist.CLIENT)
+
     @Override
     public String getName() {
         return this.name;
@@ -79,7 +80,7 @@ public enum ButterMinecraftArmorMaterial implements IArmorMaterial {
     }
 
     @Override
-    public float func_230304_f_() {
+    public float getKnockbackResistance() {
         return this.knockbackResistance;
     }
 }

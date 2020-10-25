@@ -19,7 +19,7 @@ public class HypokuteGrass extends BushBlock {
                 //.notSolid()
                 //.notOpaque()
                 /*.setRequiresTool()*/
-                .sound(SoundType.WET_GRASS) //TODO changer son
+                .sound(SoundType.WET_GRASS) //TODO changer le son
         );/**/
     }
 }
