@@ -60,5 +60,20 @@ public class ButterMinecraftItems {
             () -> new BlockItemBase(ButterMinecraftBlocks.MAGIC_CRYSTAL_BLOCK.get()));
 
     public static final RegistryObject<Item> HYPOKUTE_GRASS_ITEM = ITEMS.register("hypokute_grass",
-            () -> new BlockItemBase(ButterMinecraftBlocks.HYPOKUTE_GRASS_BLOCK.get()));
+            () -> new BlockItemBase(ButterMinecraftBlocks.HYPOKUTE_GRASS.get()));
+
+    public static final RegistryObject<Item> BLUE_MYCELIUM_BLOCK_ITEM = ITEMS.register("blue_mycelium",
+            () -> new BlockItemBase(ButterMinecraftBlocks.BLUE_MYCELIUM_BLOCK.get()));
+
+    public static final RegistryObject<Item> BLUE_MUSHROOM_ITEM = ITEMS.register("blue_mushroom",
+            () -> new BlockItemBase(ButterMinecraftBlocks.BLUE_MUSHROOM.get()));
+
+    public static final RegistryObject<Item> BLUE_MUSHROOM_BLOCK_ITEM = ITEMS.register("blue_mushroom_block",
+            () -> new BlockItemBase(ButterMinecraftBlocks.BLUE_MUSHROOM_BLOCK.get()));
+
+    public static final RegistryObject<Item> SPOTTED_BLUE_MUSHROOM_BLOCK_ITEM = ITEMS.register("spotted_blue_mushroom_block",
+            () -> new BlockItemBase(ButterMinecraftBlocks.SPOTTED_BLUE_MUSHROOM_BLOCK.get()));
+
+    public static final RegistryObject<Item> BLUE_MUSHROOM_STEM_ITEM = ITEMS.register("blue_mushroom_stem",
+            () -> new BlockItemBase(ButterMinecraftBlocks.BLUE_MUSHROOM_STEM.get()));
 }

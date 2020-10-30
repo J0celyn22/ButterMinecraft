@@ -16,5 +16,10 @@
   "item.butterminecraft.bad_butter_galette" : "Butter Galette",
   "block.butterminecraft.eternal_ice_block" : "Eternal Ice Block",
   "block.butterminecraft.magic_crystal_block" : "Magic Crystal Block",
-  "block.butterminecraft.hypokute_grass" : "Hypokute Grass"
+  "block.butterminecraft.hypokute_grass" : "Hypokute Grass",
+  "block.butterminecraft.blue_mycelium" : "Blue Mycelium",
+  "block.butterminecraft.blue_mushroom" : "Blue Mushroom",
+  "block.butterminecraft.blue_mushroom_block" : "Blue Mushroom Block",
+  "block.butterminecraft.spotted_blue_mushroom_block" : "Spotted Blue Mushroom Block",
+  "block.butterminecraft.blue_mushroom_stem" : "Blue Mushroom Stem"
 }

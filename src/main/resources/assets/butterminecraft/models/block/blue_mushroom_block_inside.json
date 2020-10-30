@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_single_face",
+  "ambientocclusion": false,
+  "textures": {
+    "texture": "butterminecraft:blocks/blue_mushroom_block_inside"
+  }
+}

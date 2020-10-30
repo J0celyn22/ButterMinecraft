@@ -1,9 +1,7 @@
 package com.infiniteam.butterminecraft.registries;
 
 import com.infiniteam.butterminecraft.ButterMinecraft;
-import com.infiniteam.butterminecraft.blocks.EternalIceBlock;
-import com.infiniteam.butterminecraft.blocks.HypokuteGrass;
-import com.infiniteam.butterminecraft.blocks.MagicCrystalBlock;
+import com.infiniteam.butterminecraft.blocks.*;
 import net.minecraft.block.Block;
 import net.minecraft.block.BushBlock;
 import net.minecraftforge.fml.RegistryObject;
@@ -18,5 +16,10 @@ public class ButterMinecraftBlocks {
     //Blocks
     public static final RegistryObject<Block> ETERNAL_ICE_BLOCK = BLOCKS.register("eternal_ice_block", EternalIceBlock::new);
     public static final RegistryObject<Block> MAGIC_CRYSTAL_BLOCK = BLOCKS.register("magic_crystal_block", MagicCrystalBlock::new);
-    public static final RegistryObject<BushBlock> HYPOKUTE_GRASS_BLOCK = BLOCKS.register("hypokute_grass", HypokuteGrass::new);
+    public static final RegistryObject<BushBlock> HYPOKUTE_GRASS = BLOCKS.register("hypokute_grass", HypokuteGrass::new);
+    public static final RegistryObject<Block> BLUE_MYCELIUM_BLOCK = BLOCKS.register("blue_mycelium", BlueMycelium::new);
+    public static final RegistryObject<Block> BLUE_MUSHROOM = BLOCKS.register("blue_mushroom", BlueMushroom::new);
+    public static final RegistryObject<Block> BLUE_MUSHROOM_BLOCK = BLOCKS.register("blue_mushroom_block", BlueMushroomBlock::new);
+    public static final RegistryObject<Block> SPOTTED_BLUE_MUSHROOM_BLOCK = BLOCKS.register("spotted_blue_mushroom_block", SpottedBlueMushroomBlock::new);
+    public static final RegistryObject<Block> BLUE_MUSHROOM_STEM = BLOCKS.register("blue_mushroom_stem", BlueMushroomStem::new);
 }
