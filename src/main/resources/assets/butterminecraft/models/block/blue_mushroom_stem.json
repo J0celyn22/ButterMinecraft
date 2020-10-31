@@ -1,6 +1,6 @@
 {
-  "parent": "block/template_single_face",
+  "parent": "minecraft:block/cube_all",
   "textures": {
-    "texture": "butterminecraft:blocks/blue_mushroom_stem"
+    "all": "butterminecraft:blocks/blue_mushroom_stem"
   }
 }
